@@ -1,7 +1,6 @@
 # React + Express + TypeScript + Vite
 
-This is a template using a simple Fullstack template designed with no bells and whistles.
-This is meant to get someone up and running with minimal opinionated code.
+This is a repo of my self hosted server engine, utilizing the [Rasberry pi](https://github.com/ChrisForti/self-hosting-on-raspi). Built with a super awesome [template](https://github.com/kensonjohnson/react-express-vite-template), Incase you missed it up top.
 
 ## Features
 
