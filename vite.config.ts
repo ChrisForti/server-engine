@@ -19,6 +19,7 @@ export default defineConfig({
       // Shorthand syntax
       // http://localhost:5173/ping -> http://localhost:3000/ping
       "/ping": "http://localhost:3000",
+      "/todo": "http://localhost:3000"
 
       // Full syntax
       // http://localhost:5173/api/foo -> http://localhost:3000/foo
