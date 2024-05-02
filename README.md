@@ -1,6 +1,6 @@
 # React + Express + TypeScript + Vite
 
-This is a repo of my self hosted server engine, utilizing the [Rasberry pi](https://github.com/ChrisForti/self-hosting-on-raspi). Built with a super awesome [template](https://github.com/kensonjohnson/react-express-vite-template), "incase you missed the link up top"s.
+This is a repo of my self hosted server engine, utilizing the [Rasberry pi](https://github.com/ChrisForti/self-hosting-on-raspi). Built with a super awesome [template](https://github.com/kensonjohnson/react-express-vite-template), "incase you missed the link up top".
 
 ## Features
 
