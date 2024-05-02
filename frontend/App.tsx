@@ -24,7 +24,9 @@ function App() {
         <li>
           <ToDoListItem isComplete={false}>Item 6</ToDoListItem>;
         </li>
-        <li></li>
+        <li>
+          <ToDoListItem isComplete={false}>Item 7</ToDoListItem>;
+        </li>
       </div>
     </>
   );
