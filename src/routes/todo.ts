@@ -3,7 +3,7 @@ import { todo } from "../controllers/todo-controller.js";
 
 const router = Router();
 
-// Routes here start with /ping
-router.get("/todo", todo);
+// Routes here start with /todo
+router.get("/", todo);
 
 export default router;

@@ -15,8 +15,10 @@ app.use(express.static("frontend"));
 
 // Routes
 import pingRouter from "./routes/ping.js";
+import todoRouter from "./routes/todo.js"
 
 app.use("/ping", pingRouter);
+app.use("/todo", todoRouter)
 
 // Start server
 app.listen(3000, () => {

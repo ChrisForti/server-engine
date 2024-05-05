@@ -6,4 +6,5 @@ const router = Router();
 // Routes here start with /ping
 router.get("/", ping);
 
+
 export default router;
